@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\curso-csharp-nelio-alves\\Secao3Aula29Exercicios2EstruturaCondicional08os\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5121912-3467-4153-94F6-DA182869EA6C}|Secao3Aula29Exercicios2EstruturaCondicional08os\\Secao3Aula29Exercicios2EstruturaCondicional08os.csproj|c:\\projects\\curso-csharp-nelio-alves\\secao3aula29exercicios2estruturacondicional08os\\secao3aula29exercicios2estruturacondicional08os\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5121912-3467-4153-94F6-DA182869EA6C}|Secao3Aula29Exercicios2EstruturaCondicional08os\\Secao3Aula29Exercicios2EstruturaCondicional08os.csproj|solutionrelative:secao3aula29exercicios2estruturacondicional08os\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\curso-csharp-nelio-alves\\Secao3Aula29Exercicios2EstruturaCondicional08os\\Secao3Aula29Exercicios2EstruturaCondicional08os\\Program.cs",
+              "RelativeDocumentMoniker": "Secao3Aula29Exercicios2EstruturaCondicional08os\\Program.cs",
+              "ToolTip": "C:\\projects\\curso-csharp-nelio-alves\\Secao3Aula29Exercicios2EstruturaCondicional08os\\Secao3Aula29Exercicios2EstruturaCondicional08os\\Program.cs*",
+              "RelativeToolTip": "Secao3Aula29Exercicios2EstruturaCondicional08os\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:24:10.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
