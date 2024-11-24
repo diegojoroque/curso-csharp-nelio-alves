@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\curso-csharp-nelio-alves\\Secao3Aula35Exercicios4EstruturaRepetitivaFor04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71068A72-D283-4A3F-A18A-3C9E84142522}|Secao3Aula35Exercicios4EstruturaRepetitivaFor04\\Secao3Aula35Exercicios4EstruturaRepetitivaFor04.csproj|c:\\projects\\curso-csharp-nelio-alves\\secao3aula35exercicios4estruturarepetitivafor04\\secao3aula35exercicios4estruturarepetitivafor04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71068A72-D283-4A3F-A18A-3C9E84142522}|Secao3Aula35Exercicios4EstruturaRepetitivaFor04\\Secao3Aula35Exercicios4EstruturaRepetitivaFor04.csproj|solutionrelative:secao3aula35exercicios4estruturarepetitivafor04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\curso-csharp-nelio-alves\\Secao3Aula35Exercicios4EstruturaRepetitivaFor04\\Secao3Aula35Exercicios4EstruturaRepetitivaFor04\\Program.cs",
+              "RelativeDocumentMoniker": "Secao3Aula35Exercicios4EstruturaRepetitivaFor04\\Program.cs",
+              "ToolTip": "C:\\projects\\curso-csharp-nelio-alves\\Secao3Aula35Exercicios4EstruturaRepetitivaFor04\\Secao3Aula35Exercicios4EstruturaRepetitivaFor04\\Program.cs",
+              "RelativeToolTip": "Secao3Aula35Exercicios4EstruturaRepetitivaFor04\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:30:54.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
