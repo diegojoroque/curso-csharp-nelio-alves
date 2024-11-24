@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Secao3Aula35Exercicios4EstruturaRepetitivaFor01/1.0.0": {
+        "runtime": {
+          "Secao3Aula35Exercicios4EstruturaRepetitivaFor01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Secao3Aula35Exercicios4EstruturaRepetitivaFor01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
