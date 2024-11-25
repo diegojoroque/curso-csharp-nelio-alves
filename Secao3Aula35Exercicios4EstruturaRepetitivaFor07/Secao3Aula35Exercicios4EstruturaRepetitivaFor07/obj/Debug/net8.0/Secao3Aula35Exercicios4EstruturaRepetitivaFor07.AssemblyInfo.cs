@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Secao3Aula35Exercicios4EstruturaRepetitivaFor07")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f9b6de8368cccd2e5128af9534d5520752dccfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edc3fb2c7dd1580ef14f2d7cd93c511f2f1a895c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Secao3Aula35Exercicios4EstruturaRepetitivaFor07")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Secao3Aula35Exercicios4EstruturaRepetitivaFor07")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
