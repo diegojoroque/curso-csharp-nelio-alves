@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\curso-csharp-nelio-alves\\Secao4Aula40ClassesObjetosAtributos01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60C5BF18-8C11-4CD2-B500-76FF654893C4}|Secao4Aula40ClassesObjetosAtributos01\\Secao4Aula40ClassesObjetosAtributos01.csproj|c:\\projects\\curso-csharp-nelio-alves\\secao4aula40classesobjetosatributos01\\secao4aula40classesobjetosatributos01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C5BF18-8C11-4CD2-B500-76FF654893C4}|Secao4Aula40ClassesObjetosAtributos01\\Secao4Aula40ClassesObjetosAtributos01.csproj|solutionrelative:secao4aula40classesobjetosatributos01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C5BF18-8C11-4CD2-B500-76FF654893C4}|Secao4Aula40ClassesObjetosAtributos01\\Secao4Aula40ClassesObjetosAtributos01.csproj|c:\\projects\\curso-csharp-nelio-alves\\secao4aula40classesobjetosatributos01\\secao4aula40classesobjetosatributos01\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C5BF18-8C11-4CD2-B500-76FF654893C4}|Secao4Aula40ClassesObjetosAtributos01\\Secao4Aula40ClassesObjetosAtributos01.csproj|solutionrelative:secao4aula40classesobjetosatributos01\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\projects\\curso-csharp-nelio-alves\\Secao4Aula40ClassesObjetosAtributos01\\Secao4Aula40ClassesObjetosAtributos01\\Person.cs",
+              "RelativeDocumentMoniker": "Secao4Aula40ClassesObjetosAtributos01\\Person.cs",
+              "ToolTip": "C:\\projects\\curso-csharp-nelio-alves\\Secao4Aula40ClassesObjetosAtributos01\\Secao4Aula40ClassesObjetosAtributos01\\Person.cs",
+              "RelativeToolTip": "Secao4Aula40ClassesObjetosAtributos01\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:53:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\curso-csharp-nelio-alves\\Secao4Aula40ClassesObjetosAtributos01\\Secao4Aula40ClassesObjetosAtributos01\\Program.cs",
+              "RelativeDocumentMoniker": "Secao4Aula40ClassesObjetosAtributos01\\Program.cs",
+              "ToolTip": "C:\\projects\\curso-csharp-nelio-alves\\Secao4Aula40ClassesObjetosAtributos01\\Secao4Aula40ClassesObjetosAtributos01\\Program.cs*",
+              "RelativeToolTip": "Secao4Aula40ClassesObjetosAtributos01\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:52:54.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
