@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Secao4Aula45ExercicioFixacaoClassAtribMet03/1.0.0": {
+        "runtime": {
+          "Secao4Aula45ExercicioFixacaoClassAtribMet03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Secao4Aula45ExercicioFixacaoClassAtribMet03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
