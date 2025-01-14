@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Secao4Aula45ExercicioFixacaoClassAtribMet01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec93815f666f773414bb5b481c0c488681dc7d02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d86a92dcdf6f1117c7906befd4066c9b78f30145")]
 [assembly: System.Reflection.AssemblyProductAttribute("Secao4Aula45ExercicioFixacaoClassAtribMet01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Secao4Aula45ExercicioFixacaoClassAtribMet01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
