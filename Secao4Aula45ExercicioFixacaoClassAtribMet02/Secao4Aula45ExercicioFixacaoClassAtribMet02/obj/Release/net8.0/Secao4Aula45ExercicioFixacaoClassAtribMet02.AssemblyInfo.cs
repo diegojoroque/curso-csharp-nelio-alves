@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Secao4Aula45ExercicioFixacaoClassAtribMet02")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d02e4f38e98982ad2f6a49f048772d5c556837b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Secao4Aula45ExercicioFixacaoClassAtribMet02")]

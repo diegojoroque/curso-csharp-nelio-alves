@@ -17,7 +17,7 @@ namespace Secao4Aula45ExercicioFixacaoClassAtribMet01
             Console.WriteLine("Entre a largura e altura do retângulo:");
             retangle.Largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             retangle.Altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
+            
             Console.WriteLine(retangle);
         }
     }
