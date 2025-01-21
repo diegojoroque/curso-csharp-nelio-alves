@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Secao4Aula45ExercicioFixacaoClassAtribMet02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Secao4Aula45ExercicioFixacaoClassAtribMet02\\Funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Secao4Aula45ExercicioFixacaoClassAtribMet02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,23 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Funcionario.cs",
               "RelativeDocumentMoniker": "Secao4Aula45ExercicioFixacaoClassAtribMet02\\Funcionario.cs",
               "ToolTip": "C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Funcionario.cs",
               "RelativeToolTip": "Secao4Aula45ExercicioFixacaoClassAtribMet02\\Funcionario.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:03:47.692Z"
+              "WhenOpened": "2024-11-28T11:03:47.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Secao4Aula45ExercicioFixacaoClassAtribMet02\\Program.cs",
               "RelativeDocumentMoniker": "Secao4Aula45ExercicioFixacaoClassAtribMet02\\Program.cs",
@@ -42,8 +43,7 @@
               "RelativeToolTip": "Secao4Aula45ExercicioFixacaoClassAtribMet02\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:59:49.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T10:59:49.067Z"
             }
           ]
         }

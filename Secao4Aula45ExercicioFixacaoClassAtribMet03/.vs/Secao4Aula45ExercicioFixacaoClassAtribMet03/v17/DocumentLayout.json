@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\projects\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\",
+  "WorkspaceRootPath": "C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4CDE7D1-14A9-4007-85BB-35075E0113B8}|Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03.csproj|c:\\projects\\curso-csharp-nelio-alves\\secao4aula45exerciciofixacaoclassatribmet03\\secao4aula45exerciciofixacaoclassatribmet03\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4CDE7D1-14A9-4007-85BB-35075E0113B8}|Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03.csproj|solutionrelative:secao4aula45exerciciofixacaoclassatribmet03\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Secao4Aula45ExercicioFixacaoClassAtribMet03\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4CDE7D1-14A9-4007-85BB-35075E0113B8}|Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03.csproj|c:\\projects\\curso-csharp-nelio-alves\\secao4aula45exerciciofixacaoclassatribmet03\\secao4aula45exerciciofixacaoclassatribmet03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4CDE7D1-14A9-4007-85BB-35075E0113B8}|Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03.csproj|solutionrelative:secao4aula45exerciciofixacaoclassatribmet03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Secao4Aula45ExercicioFixacaoClassAtribMet03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\projects\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Aluno.cs",
+              "DocumentMoniker": "C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Aluno.cs",
               "RelativeDocumentMoniker": "Secao4Aula45ExercicioFixacaoClassAtribMet03\\Aluno.cs",
-              "ToolTip": "C:\\projects\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Aluno.cs",
+              "ToolTip": "C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Aluno.cs",
               "RelativeToolTip": "Secao4Aula45ExercicioFixacaoClassAtribMet03\\Aluno.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T22:15:12.829Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projects\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Program.cs",
               "RelativeDocumentMoniker": "Secao4Aula45ExercicioFixacaoClassAtribMet03\\Program.cs",
-              "ToolTip": "C:\\projects\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Program.cs",
+              "ToolTip": "C:\\dev\\curso-csharp-nelio-alves\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Secao4Aula45ExercicioFixacaoClassAtribMet03\\Program.cs",
               "RelativeToolTip": "Secao4Aula45ExercicioFixacaoClassAtribMet03\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:48:24.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T12:48:24.882Z"
             }
           ]
         }
